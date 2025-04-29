@@ -1,8 +1,6 @@
 ### Hey, I'm Jace  👋🏽
 
 I'm a Web developer based in Germany, and I'm passionate about crafting digital experiences. 
-
-- Check out my [website](https://jace-dev.com/) to learn more about me.
  
 ## 📦 Toolbox
 
