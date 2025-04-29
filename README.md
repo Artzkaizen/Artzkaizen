@@ -8,9 +8,9 @@ I'm a Web developer based in Germany, and I'm passionate about crafting digital 
 
 **Frontend Development:** `React` `Vue` `Next.js` `JavaScript` `TypeScript` `Tailwind` `Bootstrap`
  
-**Version Control:** `Git` `GitLab` `Bitbucket`
+**Version Control:** `Git` `GitLab`
 
-**Backend Development:** `Nest.js` `MongoDB` `Firebase` 
+**Backend Development:** `Nest.js` `MongoDB` `Firebase` `SQL` 
 
 **Testing:** `Jest` `Cypress` `Postman`
 
