@@ -4,13 +4,13 @@ I'm a Web developer based in Germany, and I'm passionate about crafting digital 
  
 ## 📦 Toolbox
 
-**Frontend Development:** `React` `Vue` `Next.js` `JavaScript` `TypeScript` `Tailwind` `Bootstrap`
+**Frontend Development:** `React` `Vue` `Next.js` `JavaScript` `TypeScript` `Tailwind` `Bootstrap` `tRPC`
  
 **Version Control:** `Git` `GitLab`
 
-**Backend Development:** `Nest.js` `MongoDB` `Firebase` `SQL` 
+**Backend Development:** `Hono` `Express` `MongoDB` `Firebase` `SQL` 
 
-**Testing:** `Jest` `Cypress` `Postman`
+**Testing:** `Vitest` `Cypress` `Postman`
 
  
 ## ✨ Fun Facts 
