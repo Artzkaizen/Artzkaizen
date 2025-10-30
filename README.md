@@ -8,7 +8,7 @@ I'm a Web developer based in Germany, and I'm passionate about crafting digital 
  
 **Version Control:** `Git` `GitLab`
 
-**Backend Development:** `Hono` `Express` `MongoDB` `Firebase` `SQL` 
+**Backend Development:** `Hono` `Express` `SQL` `MongoDB`
 
 **Testing:** `Vitest` `Cypress` `Postman`
 
